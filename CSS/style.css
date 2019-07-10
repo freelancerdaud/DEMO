@@ -1,5 +1,8 @@
+.text-decoration {
 
-.text-decoration{
-
-    text-decoration:none;
+    text-decoration      : none;
+    background-attachment: fixed;
+    background-origin    : padding-box;
+    border               : #003ec4;
+    color                : #12b127;
 }
