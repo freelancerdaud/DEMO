@@ -17,7 +17,7 @@ color: #f8f0c1,
 .b{
 
 
-
+text-align: center;
 
 
     
@@ -44,4 +44,12 @@ color: #f8f0c1,
     
     
         
+    }
+
+
+.app{
+
+    margin: 0 auto;
+    border: 10px;
+    color: blue;
     }
