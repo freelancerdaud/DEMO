@@ -1,55 +1,18 @@
-.a{
-
- padding: 10px;
-margin: 6px;
-color: #f8f0c1,
-
-
+.a {
+    padding: 10px;
+    margin: 6px;
+    color: #c9ac0a;
 }
 
-
-
-
-
-
-
-
-.b{
-
-
-text-align: center;
-
-
-    
+.b {
+    text-align: center;
 }
 
+.text-decoration {
+    color: rgb(79, 190, 138);
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-.text-decoration{
-
-    color: rgb(240, 113, 23)
-    
-    
-    
-        
-    }
-
-
-.app{
-
+.app {
     margin: 0 auto;
     border: 10px;
-    color: blue;
-    }
+    color: #0b6bd8;
