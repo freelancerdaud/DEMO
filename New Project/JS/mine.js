@@ -42,7 +42,7 @@ document.getElementById("demo").setAttribute("style","");
 document.getElementById("show1").addEventListener("click",clicek1);
 function clicek1(){
 
-document.getElementById("demo2").setAttribute("style","opacity:1;transform:rotate(360deg);");
+document.getElementById("demo2").setAttribute("style","opacity:1;transform:scaleY(1);");
 
 
 
@@ -51,7 +51,7 @@ document.getElementById("demo2").setAttribute("style","opacity:1;transform:rotat
 document.getElementById("hide1").addEventListener("click",clickda2);
 function clickda2(){
 
-document.getElementById("demo2").setAttribute("style","");
+document.getElementById("demo2").setAttribute("style","transform:scaleY(0);");
 
 
 
